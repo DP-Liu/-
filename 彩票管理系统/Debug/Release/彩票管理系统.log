@@ -1,0 +1,66 @@
+﻿  page.cpp
+  lottery1.cpp
+G:\C_WorkSpace\实例\彩票管理系统\header.h(10,32): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\header.h(11,23): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(144,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(218,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(218,9): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(223,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(223,10): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(231,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(231,10): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(218,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(223,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery1.cpp(231,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  login.cpp
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\header.h(10,32): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\header.h(11,23): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\login.cpp(17,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+G:\C_WorkSpace\实例\彩票管理系统\login.cpp(83,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\login.cpp(112,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\login.cpp(122,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+  lottery2.cpp
+G:\C_WorkSpace\实例\彩票管理系统\login.cpp(108,7): warning C4101: “password2”: 未引用的局部变量
+G:\C_WorkSpace\实例\彩票管理系统\header.h(10,32): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\header.h(11,23): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(100,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(229,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(229,9): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(234,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(234,10): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(242,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(242,10): message : 请考虑在格式字符串中使用“%hhd”
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(229,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(234,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\lottery2.cpp(242,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\header.h(10,32): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\header.h(11,23): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\main.cpp(9,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  register.cpp
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(18,23): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(22,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(46,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(61,32): warning C4114: 多次使用同一类型限定符
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(64,16): warning C4018: “<”: 有符号/无符号不匹配
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(88,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(102,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+G:\C_WorkSpace\实例\彩票管理系统\register.cpp(112,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
